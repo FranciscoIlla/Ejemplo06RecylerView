@@ -4,11 +4,11 @@ plugins {
 
 android {
     namespace = "francisco.illa.ejemplo06recylerview"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "francisco.illa.ejemplo06recylerview"
-        minSdk = 24
+        minSdk = 26
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
